@@ -1,0 +1,1 @@
+// This component is deprecated in favor of the direct map in Home.tsx for the new layout.

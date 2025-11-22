@@ -1,0 +1,1 @@
+// This component is deprecated. The dashboard header replaces the hero section.
