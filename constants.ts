@@ -113,7 +113,6 @@ export const LINKS: LinkItem[] = [
     tags: ['Auto', 'Multi'],
     color: 'bg-purple-600'
   },
-  { id: 'dogestation', title: 'DogeStation', url: 'https://dogestation.com/register.php?ref=6902DA99', description: 'Daily Doge drops.', category: CategoryType.FAUCET, tags: ['Doge'], color: 'bg-yellow-400' },
   { id: 'dogepick', title: 'DogePick', url: 'https://dogepick.io/?ref=limana', description: 'Hourly Doge Protocol.', category: CategoryType.FAUCET, tags: ['Doge'], color: 'bg-yellow-400' },
   { id: 'litepick', title: 'LitePick', url: 'https://litepick.io/?ref=source', description: 'Hourly Litecoin Protocol.', category: CategoryType.FAUCET, tags: ['LTC'], color: 'bg-gray-400' },
   { id: 'solpick', title: 'SolPick', url: 'https://solpick.io/?ref=dashboard', description: 'Solana Matrix Entry.', category: CategoryType.FAUCET, tags: ['SOL'], color: 'bg-indigo-400' },
@@ -161,15 +160,6 @@ export const LINKS: LinkItem[] = [
     tags: ['Sim', 'Mining'],
     color: 'bg-purple-700',
     isHot: true
-  },
-  {
-    id: 'bchgames',
-    title: 'BCH Games',
-    url: 'https://bch.games/play/dashboard',
-    description: 'Instant action. No registration.',
-    category: CategoryType.GAMING,
-    tags: ['Casino', 'BCH'],
-    color: 'bg-green-500'
   },
   {
     id: 'gamee',
@@ -269,7 +259,6 @@ export const LINKS: LinkItem[] = [
     tags: ['ID'],
     color: 'bg-red-700'
   },
-  { id: 'optimai-tweet', title: 'Optimai Social', url: 'https://app.optimai.im/generate-tweet', description: 'Social farming protocol.', category: CategoryType.SOCIAL, tags: ['Social'], color: 'bg-teal-500' },
   { id: 'everve', title: 'Everve', url: 'https://everve.net/ref/678797/', description: 'Social signal exchange.', category: CategoryType.SOCIAL, tags: ['Exchange'], color: 'bg-pink-500' },
 
   // --- TOOLS ---
