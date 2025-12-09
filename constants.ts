@@ -147,7 +147,6 @@ export const LINKS: LinkItem[] = [
     tags: ['New', 'BTC'],
     color: 'bg-orange-400'
   },
-  { id: 'adbch', title: 'AdBCH', url: 'https://adbch.top/r/312844', description: 'Bitcoin Cash focus.', category: CategoryType.PTC, tags: ['BCH'], color: 'bg-green-400' },
   { id: 'surfe', title: 'Surfe.be', url: 'https://surfe.be/ext/178882', description: 'Passive browser overlay.', category: CategoryType.PTC, tags: ['Extension'], color: 'bg-blue-500' },
 
   // --- GAMING ---
